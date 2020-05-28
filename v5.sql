@@ -1,1 +1,0 @@
-ALTER TABLE `ocenter_member` ADD `alive_line` INT( 11 ) NOT NULL DEFAULT '0' COMMENT '用户禁用时间至该值' ;
